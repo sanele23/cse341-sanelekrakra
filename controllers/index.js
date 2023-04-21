@@ -1,3 +1,4 @@
+// controller is used to handle all logic
 // function - get response when sending request from home page
 
 const awesomeFunction = ('/', (req, res, next) => {
